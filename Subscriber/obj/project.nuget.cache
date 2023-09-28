@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvKFEYZl7fUBVq05ktCWprMCeQZP86boFSd8lHIuDL3f/XbG/5T44SYhzHrorUA2+sa4fQM3zIHCaz484tVTBQ==",
+  "success": true,
+  "projectFilePath": "D:\\VijayN\\PersonalRepo\\RabbitMQTutorial\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://njms-dev02.nis.com//tfs/Najm/_packaging/Adf/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
